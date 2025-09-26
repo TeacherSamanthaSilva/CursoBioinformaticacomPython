@@ -1,4 +1,4 @@
-# Programa para comparar duas sequências
+# Escreva um programa que compare se duas sequências digitadas pelo usuário são iguais.
 
 # Entrada de dados
 seq1 = input("Digite a primeira sequência: ")
